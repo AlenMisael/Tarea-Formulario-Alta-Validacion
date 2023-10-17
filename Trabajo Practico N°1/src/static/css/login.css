@@ -1,0 +1,59 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: contents;
+  flex-direction: column; 
+  justify-content: left;
+  align-items: center;
+}
+
+
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.alert {
+  padding: 1rem; 
+  margin-bottom: 1rem; 
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  position: relative; 
+}
+
+.alert-error {
+  color: red;
+  background-color: rgba(255,0,0,0.2);
+  border-color: red;
+
+}
+
+.alert button.close{
+  position: absolute; 
+  right: 10px; 
+  top: 50%; 
+  transform: translate(-50%);
+}
+
+.registro-link {
+  color: white;
+}
