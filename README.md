@@ -34,7 +34,21 @@ Para poder usar la aplicacion web se requerirá instalar lo siguiente:
 
 ## Como se usa
 Para poder usar la aplicacion web se deben realizar los siguientes pasos:
-1. 
+1. Clonar el repositorio actual en la carpeta a su elección. Para ello se debe escribir en la consola de Visual Studio Code lo siguiente:
+   '''
+   git clone https://github.com/AlenMisael/Tarea-Formulario-Alta-Validacion
+   '''
+2. Iniciar el docker engine.
+3. Ingresar a Trabajo Practico N°1 mediante la terminal y escribir en la consola:
+   '''
+   docker-compose up
+   '''
+4. Abrir un navegador e ingresar a localhost:5000.
+5. En caso de que al momento de loguearse se produzca una excepción, ingresar al Docker Desktop, ingresar a la imagen que se llama db y dirigirse a la pestaña Terminal. Dentro de terminal ingresar lo siguiente:
+   '''
+   pg_restore -U postgres -d pacientesALyP < backup.sql
+   '''
+6. Probar la aplicación web.
   
   
 
