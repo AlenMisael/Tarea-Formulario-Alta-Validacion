@@ -33,7 +33,7 @@ Para poder usar la aplicacion web se requerirá instalar lo siguiente:
 - Visual Studio Code
 
 ## Como se usa
-Para poder usar la aplicacion web se debej realizar los siguientes pasos:
+Para poder usar la aplicacion web se deben realizar los siguientes pasos:
 1. 
   
   
