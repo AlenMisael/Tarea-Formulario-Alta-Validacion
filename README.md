@@ -35,7 +35,7 @@ Para poder usar la aplicacion web se requerirá instalar lo siguiente:
 ## Como se usa
 Para poder usar la aplicacion web se deben realizar los siguientes pasos:
 1. Clonar el repositorio actual en la carpeta a su elección. Para ello se debe escribir en la consola de Visual Studio Code lo siguiente:
-   `git clone https://github.com/AlenMisael/Tarea-Formulario-Alta-Validacion`
+   `git clone https://github.com/AlenMisael/Tarea-Formulario-Alta-Validacion.git`
 2. Iniciar el docker engine.
 3. Ingresar a Trabajo Practico N°1 mediante la terminal y escribir en la consola:
    `docker-compose up`
