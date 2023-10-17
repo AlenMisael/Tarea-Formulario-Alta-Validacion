@@ -30,6 +30,11 @@ Para poder usar la aplicacion web se requerirá instalar lo siguiente:
 - Python
 - PostgreSQL 13
 - pgAdmin4
+- Visual Studio Code
+
+## Como se usa
+Para poder usar la aplicacion web se debej realizar los siguientes pasos:
+1. 
   
   
 
